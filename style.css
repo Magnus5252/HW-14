@@ -1,0 +1,13 @@
+.btn{
+    font-size: 24px;
+    filter: saturate(700%);
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+margin: 40px;
+.color-button:hover,
+.color-button:focus {
+    background-color: orange; /* Колір при наведенні або фокусі */
+}
+}
